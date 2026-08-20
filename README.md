@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kannan</h1>
 
 <h3 align="center">
-🤖 Aspiring AI Engineer | 💻 Computer Science Engineering Student | 🇮🇳 India
+💻 Computer Science Engineering Student | 🤖 Exploring AI & Software Engineering | 🇮🇳 India
 </h3>
 
 ---
@@ -10,24 +10,19 @@
 
 🎓 First-Year Computer Science Engineering Student
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Software Development.
+🤖 Interested in Artificial Intelligence, Machine Learning, and Software Development.
 
-🌱 Currently learning
+🌱 Currently strengthening my foundations in:
 
-- Python
-- Java
-- SQL
-- Git & GitHub
-- Data Structures & Algorithms
+* Python
+* Java
+* SQL
+* Data Structures & Algorithms
+* Git & GitHub
 
-💡 Interested in
+💡 I enjoy building projects, participating in technical events, and learning by doing.
 
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Open Source
-
-🚀 I enjoy building projects that solve real-world problems while continuously learning new technologies.
+🚀 My current goal is to build a strong foundation in Computer Science while exploring AI and emerging technologies.
 
 ---
 
@@ -45,39 +40,39 @@
 
 ### 📚 StudySphere AI
 
-AI-powered learning platform for students with intelligent study tools.
+An AI-powered learning platform designed to help students learn more effectively through intelligent study tools.
+
+**Focus:** AI • Education • Software Development
 
 ### 🤖 Robotics Projects
 
-Projects focused on robotics, programming and automation.
+Projects exploring robotics, programming, automation, and hands-on engineering.
 
 ### 🐍 Python Projects
 
-Automation scripts and Python applications.
-
-### 💻 College Projects
-
-Projects built throughout my engineering journey.
+Small applications and automation projects built while strengthening my Python fundamentals.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- SQL
-- Data Structures & Algorithms
-- GitHub Best Practices
+* Data Structures & Algorithms
+* Artificial Intelligence & Machine Learning
+* Generative AI
+* SQL & Database Management
+* Software Development
+* GitHub & Open Source Practices
 
 ---
 
-## 🎯 Goals
+## 🎯 2026 Goals
 
-- 🚀 Build impactful AI projects
-- 📚 Learn something new every week
-- 💻 Contribute to Open Source
-- 🏆 Participate in Hackathons
-- 🌍 Build technology that solves real-world problems
+* 🚀 Build meaningful software and AI projects
+* 📚 Strengthen programming and DSA fundamentals
+* 🏆 Participate in hackathons and technical events
+* 🌐 Explore open-source contributions
+* 🤝 Connect with other students and developers
+* 💡 Learn consistently and build in public
 
 ---
 
@@ -97,16 +92,10 @@ Projects built throughout my engineering journey.
 
 ---
 
-## 💬 Quote
-
-> *"Consistency is the key to mastering any skill."*
-
----
-
 <p align="center">
 
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-Let's learn, build and innovate together 🚀
+<b>Learn • Build • Improve 🚀</b>
 
 </p>
